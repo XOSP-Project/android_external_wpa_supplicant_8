@@ -1,0 +1,5 @@
+[gerrit]
+host=review.xosp.org
+port=29418
+project=android_external_wpa_supplicant_8.git
+defaultbranch=xosp-n-rebase
